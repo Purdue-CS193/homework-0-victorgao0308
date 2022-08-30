@@ -1,3 +1,9 @@
+# Victor Gao's First  CS193 Homework
+## Some of my favorite things about CS193
+- The icebreaker questions
+- I get to learn how to use GitHub
+- I don't know, Rohan and Theo seem like cool dudes
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
